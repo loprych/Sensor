@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sensor</string>
+    <string name="txt_values">Czujnik światła</string>
+</resources>
